@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee51b55d-fdb7-4454-afaf-570a4ca1ade5": {
+      "ProjectGuid": "ee51b55d-fdb7-4454-afaf-570a4ca1ade5",
+      "DisplayName": "Pet_Shop_MS",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
